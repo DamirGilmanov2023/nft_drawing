@@ -1,0 +1,11 @@
+login: login
+password: pass
+mail: email
+mailpassword: mailpass
+accountdate: 2020
+
+login: login
+password: pass
+mail: email
+mailpassword: mailpass
+accountdate: 2020
